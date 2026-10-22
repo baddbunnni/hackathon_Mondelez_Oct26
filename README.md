@@ -2,7 +2,7 @@
 
 A hackathon concept prototype (hackathon hosted by Mondelēz International and the Food and Drink Federation), styled to match the Fieldwork website. It helps young people discover careers in food engineering and manufacturing, recognise the skills they already have, and take a realistic next step. It is **employer-neutral** and is not a recruitment tool.
 
-It is a static site with no build step, backend, API keys or data storage. The primary persona is **Jordan Taylor**: 20, Midlands, GCSEs, unfinished college, no paid work history, and unsure where to start.
+It is a static site with no build step, backend, API keys or data storage.
 
 ## View it
 
