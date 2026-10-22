@@ -4,16 +4,6 @@ A hackathon concept prototype (hackathon hosted by Mondelēz International and t
 
 It is a static site with no build step, backend, API keys or data storage.
 
-## View it
-
-Double-click `index.html`, or run:
-
-```bash
-python3 -m http.server 8765
-```
-
-Then open http://localhost:8765. The tests are at http://localhost:8765/tests/run.html.
-
 ## Journey
 
 1. **Four questions:** interests, current situation (+ optional 14–19 check at school or college), hands-on experience (yes / not yet), and goal (options depend on situation).
